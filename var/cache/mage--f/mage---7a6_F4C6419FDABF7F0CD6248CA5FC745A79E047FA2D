@@ -1,0 +1,38 @@
+
+<div class="footer-info first-bg">
+  <div class="container_9 clearfix">  </div>
+</div>
+<footer class="clearfix second-bg" id="footer">
+  <div class="footer-wrap container_9 ">
+    <div class="footer-set"> <div class="block">
+<h4>Customer Service</h4>
+<div class="block_content">
+<ul>
+<li class="item"><a title="Contact us" href="http://genuinetours.com.vn/index.php/contacts/?___SID=U">Contact us</a></li>
+</ul>
+</div>
+</div>
+<div class="block">
+<h4>Information</h4>
+<div class="block_content">
+<ul>
+<li class="item"><a title="Delivery" href="http://genuinetours.com.vn/index.php/%3EDelivery%3C/a%3E%3C/li%3E
+%3Cli class=/item%22%3E%3Catitle/Legal Notice/href/{{store url=/?___SID=U">Legal Notice</a></li>
+<li class="item"><a title="About us" href="http://genuinetours.com.vn/index.php/about-us/?___SID=U">About us</a></li>
+<li><a title="Sitemap" href="http://templines.com/demo/magento/onlinesale/index.php/">Sitemap</a></li>
+</ul>
+</div>
+</div>
+<div class="block">
+<h4>My account</h4>
+<div class="block_content">&nbsp;</div>
+</div>
+<div class="block last">
+<p><strong>Genuine Tour Viet Nam</strong><br />Head office: 2 Dong Khoi Street, Ben Nghe Ward, District 1, HCMC<br />Tel: (84)-866846958<br />Fax: (84)-838243564<br />Hotline: 0904969219 - 0982674451<br />Email: <a title="sale@genuinetours.com.vn" href="mailto:sale@genuinetours.com.vn">sale@genuinetours.com.vn</a></p>
+</div> </div>
+    <footer class="clearfix" id="footer-absolute"> <a class="go-top"  id="scroll-top-img"> <a class="go-top first-bg" href="#" id="scroll-top-img"> <img  src="http://genuinetours.com.vn/skin/frontend/default/onlinesale/images/scrolltop.png"></a> </a>
+      <div class="copy">  </div>
+      <div class="social"> <p><a href="#"> <em class="icon-facebook"><span>icon</span></em></a> <a href="#"><em class="icon-twitter"><span>icon</span></em></a> <a href="#"><em class="icon-rss"><span>icon</span></em></a></p> </div>
+    </footer>
+  </div>
+</footer>

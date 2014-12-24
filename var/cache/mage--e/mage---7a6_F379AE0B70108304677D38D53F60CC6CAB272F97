@@ -1,0 +1,51 @@
+			<link rel="stylesheet" type="text/css" href="http://genuinetours.com.vn/skin/frontend/default/onlinesale/css/magebuzz/catsidebarnav/static.css" media="all" />
+				<div class="block block-category-nav">
+			<div class="block-title">
+				<strong><span>Categories</span></strong>
+			</div>
+			<div class="block-content">
+				<ul id="sidenav">
+					<li class="level0 nav-1 active level-top first parent">
+<a href="http://genuinetours.com.vn/index.php/domestic.html?___SID=U" class="level-top">
+<span>Domestic</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-1-1 active first">
+<a href="http://genuinetours.com.vn/index.php/domestic/mekong.html?___SID=U">
+<span>Mekong</span>
+</a>
+</li><li class="level1 nav-1-2">
+<a href="http://genuinetours.com.vn/index.php/domestic/northern.html?___SID=U">
+<span>Northern</span>
+</a>
+</li><li class="level1 nav-1-3">
+<a href="http://genuinetours.com.vn/index.php/domestic/middle-4.html?___SID=U">
+<span>Middle</span>
+</a>
+</li><li class="level1 nav-1-4">
+<a href="http://genuinetours.com.vn/index.php/domestic/southern.html?___SID=U">
+<span>Southern</span>
+</a>
+</li><li class="level1 nav-1-5">
+<a href="http://genuinetours.com.vn/index.php/domestic/east-west-north.html?___SID=U">
+<span>East-West North</span>
+</a>
+</li><li class="level1 nav-1-6 last">
+<a href="http://genuinetours.com.vn/index.php/domestic/transviet.html?___SID=U">
+<span>Transviet</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-2 level-top">
+<a href="http://genuinetours.com.vn/index.php/outbound.html?___SID=U" class="level-top">
+<span>Outbound</span>
+</a>
+</li><li class="level0 nav-3 level-top last">
+<a href="http://genuinetours.com.vn/index.php/inbound.html?___SID=U" class="level-top">
+<span>Inbound</span>
+</a>
+</li>				</ul>
+			</div>	
+		</div>
+				
+	
